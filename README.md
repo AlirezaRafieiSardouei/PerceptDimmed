@@ -11,7 +11,7 @@ Please click on the image to see the image clearly.
 #### Brightness 60%
 [<img src="figures/lemons60.png" width="260px"/>](https://imgsli.com/MzU3OTA5) [<img src="figures/lemons60.png" width="260px"/>](https://imgsli.com/MzU3OTA7) [<img src="figures/lemons60.png" width="260px"/>](https://imgsli.com/MzU3OTA1)
 #### Brightness 80%
-[<img src="figures/lemons.png" width="260px"/>](https://imgsli.com/MzU3OTEw) [<img src="figures/lemons.png" width="260px"/>](https://imgsli.com/MzU3OTEy) [<img src="figures/lemons.png" width="260px"/>](https://imgsli.com/MzU3OTEz)
+[<img src="figures/lemons80.png" width="260px"/>](https://imgsli.com/MzU3OTEw) [<img src="figures/lemons80.png" width="260px"/>](https://imgsli.com/MzU3OTEy) [<img src="figures/lemons80.png" width="260px"/>](https://imgsli.com/MzU3OTEz)
 
 ## City Line
 ### The dimmed input ||| The DCT-based output ||| The Gradient-based output
